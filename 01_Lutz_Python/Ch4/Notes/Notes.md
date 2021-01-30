@@ -180,23 +180,6 @@ print(s1[::-1])
 ```
 
 
-
-
-
-
-
-abcd
-efgh
-ijkl
-mnop 
-
-into 
-
-ponm
-lkji
-hgfe
-dcba
-
 ## Dictionaries
 
 
