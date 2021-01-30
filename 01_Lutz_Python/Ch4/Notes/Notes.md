@@ -61,7 +61,7 @@ Here are examples of many of the types to be covered in this section:
     #<class 'dict'>
     x={1:'entry 1', 2:'entry 2', 'c': 'entry c'}
     print(type(x))
-
+``` 
 
 
 
@@ -73,9 +73,11 @@ Strings can be used to record names, words, and other textual information, but i
 Strings are immutable in python (and many other languages.)  This means that when a string in defined in memory, making any change to the string with code will not just make a similar change in the memory, but copy the string to a new position of memory with the changes made.  Lets say that we have string a='Immutable', and we wanted to add an 's' to the end.  c=a+'s' 'Immutables' will cause a whole new string to be made.  The consequences of this will be highlighted in the follwing examples
 
 The fastest way to show this is by trying to change a letter in a string
-a='test'
-a[0]='b'  TypeError: 'str' object does not support item assignment
-
+``` python
+    >>> a='test'
+    >>> a[0]='b'  
+    TypeError: 'str' object does not support item assignment
+``` 
 but you can do something like this in a list:
 
 a=['t', 'e','s','t']
