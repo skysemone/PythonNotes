@@ -20,46 +20,48 @@ In lower level languages, programmers have to code (or copy) their own data stru
 Here are examples of many of the types to be covered in this section:
 
 ``` python
+    #<class 'int'>    
     x = 123
     print(type(x))
-    <class 'int'>
 
+    #<class 'float'>
     x = 123.0
     print(type(x))
-    <class 'float'>
 
+    #<class 'float'>
     x = 123.0
     y = 4
     print(type(x*y))
-    <class 'float'>
 
+    #<class 'complex'>
     x = '12+3j'
     print(type(x))
-    <class 'complex'>
 
+    #<class 'bool'>
     x = 123==321
     print(type(x))
-    <class 'bool'>
 
+    #<class 'str'>
     x = '123.0'
     print(type(x))
-    <class 'str'>
 
+    #<class 'tuple'>
     x = (123.0,123,123)
     print(type(x))
-    <class 'tuple'>
 
+    #<class 'list'>
     x=[1,2,3,4,5]
     print(type(x))
-    <class 'list'>
 
+
+    #<class 'set'>
     x={1,2,3,4,5}
     print(type(x))
-    <class 'set'>
 
+    #<class 'dict'>
     x={1:'entry 1', 2:'entry 2', 'c': 'entry c'}
     print(type(x))
-    <class 'dict'>
+
 
 
 
