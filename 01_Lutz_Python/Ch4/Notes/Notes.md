@@ -76,8 +76,9 @@ The fastest way to show this is by trying to change a letter in a string
 ``` python
     >>> a='test'
     >>> a[0]='b'  
+```
     TypeError: 'str' object does not support item assignment
-``` 
+
 but you can do something like this in a list:
 
 a=['t', 'e','s','t']
