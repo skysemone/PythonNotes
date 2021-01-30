@@ -19,47 +19,46 @@ In lower level languages, programmers have to code (or copy) their own data stru
 
 Here are examples of many of the types to be covered in this section:
 
-``` python
-    x = 123
-    print(type(x))
-    <class 'int'>
+x = 123
+print(type(x))
+<class 'int'>
 
-    x = 123.0
-    print(type(x))
-    <class 'float'>
+x = 123.0
+print(type(x))
+<class 'float'>
 
-    x = 123.0
-    y = 4
-    print(type(x*y))
-    <class 'float'>
+x = 123.0
+y = 4
+print(type(x*y))
+<class 'float'>
 
-    x = '12+3j'
-    print(type(x))
-    <class 'complex'>
+x = '12+3j'
+print(type(x))
+<class 'complex'>
 
-    x = 123==321
-    print(type(x))
-    <class 'bool'>
+x = 123==321
+print(type(x))
+<class 'bool'>
 
-    x = '123.0'
-    print(type(x))
-    <class 'str'>
+x = '123.0'
+print(type(x))
+<class 'str'>
 
-    x = (123.0,123,123)
-    print(type(x))
-    <class 'tuple'>
+x = (123.0,123,123)
+print(type(x))
+<class 'tuple'>
 
-    x=[1,2,3,4,5]
-    print(type(x))
-    <class 'list'>
+x=[1,2,3,4,5]
+print(type(x))
+<class 'list'>
 
-    x={1,2,3,4,5}
-    print(type(x))
-    <class 'set'>
+x={1,2,3,4,5}
+print(type(x))
+<class 'set'>
 
-    x={1:'entry 1', 2:'entry 2', 'c': 'entry c'}
-    print(type(x))
-    <class 'dict'>
+x={1:'entry 1', 2:'entry 2', 'c': 'entry c'}
+print(type(x))
+<class 'dict'>
 
 
 
