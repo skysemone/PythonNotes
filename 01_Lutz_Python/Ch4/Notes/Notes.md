@@ -76,36 +76,41 @@ The fastest way to show this is by trying to change a letter in a string
 ``` python
 a='test'__
 a[0]='b'  
-#TypeError: 'str' object does not support item assignment
+#   TypeError: 'str' object does not support item assignment
 ```
 
 but you can do something like this in a list:
 
+``` python
 a=['t', 'e','s','t']
 a[0]='b'
 print(a)
+```
  
  What you can do is select part of the string and add it to another part:
- a='test'
- b='b'+a[1:]
- print(b)
- >>>'best'
+ ``` python
+a='test'
+b='b'+a[1:]
+print(b)
+#   'best'
+```
  
  This is a good place to bring up '==' and 'is' in Python.  Every object defined in the Python code gets a unique ID upon creation.  In CPython this is the memory address, but using the standard implimentation, it is a constant value.  'is' should be used to check identity, and '==' used to check equalivance.  Using 'is' to compare two strings, in this case, is the equilivant to this statement using '=='
 
- id(a)==id(b)    <=>   a is b
+ **id(a)==id(b)**    <=>   **a is b**
  
  Python caches strings and objects to minimize space, so two different strings will still show up as the same id, while strings constructed through other means will not.
+ ``` python
 a='string 1'
 b='string 1'
 print(id(a), id(b))
->>> 4385830064 4385830064
+#    4385830064 4385830064
 
 a='string 1'
 b=a[0:2]+a[2:5]
 print(id(a), id(b))
->>>4372340336 4372236592
-
+#   4372340336 4372236592
+```
 so in this instance, 'a==b' returns true, but 'a is b' returns false!
  
 
