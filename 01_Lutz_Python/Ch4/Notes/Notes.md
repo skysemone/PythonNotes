@@ -12,6 +12,13 @@ Python was designed by Guido van Rossum in 1991.  it is considered:
  + Imperitive: uses instructions to change the state of the program.  Think of this as telling the computer step by step what to do.  There are many variants of this, but the most are considered procedural (having subroutines/functions.)
  + Structured:  Similar to imparitive languages, these are langauges that give instructions, but impove claity and efficiency by using several control flow methods like while loops, for loops, if statements, etc. 
  + Reflexive:  programming languages able to examinge, introspect, and modify its own structure.
+ 
+ | Option | Description |
+ | ------ | ----------- |
+ | data   | path to data files to supply the data that will be passed into templates. |
+ | engine | engine to be used for processing templates. Handlebars is the default. |
+ | ext    | extension to be used for dest files. |
+ 
 
 ## Built in Types
 
