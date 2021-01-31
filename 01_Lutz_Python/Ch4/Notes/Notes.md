@@ -12,14 +12,8 @@ Python was designed by Guido van Rossum in 1991.  it is considered:
  + Imperitive: uses instructions to change the state of the program.  Think of this as telling the computer step by step what to do.  There are many variants of this, but the most are considered procedural (having subroutines/functions.)
  + Structured:  Similar to imparitive languages, these are langauges that give instructions, but impove claity and efficiency by using several control flow methods like while loops, for loops, if statements, etc. 
  + Reflexive:  programming languages able to examinge, introspect, and modify its own structure.
- 
- | Test | Description |
- | ------ | ----------- |
- | data   | path to data files to supply the data that will be passed into templates. |
- | engine | engine to be used for processing templates. Handlebars is the default. |
- | ext    | extension to be used for dest files. |
- 
 
+ 
 ## Built in Types
 
 In lower level languages, programmers have to code (or copy) their own data structures, but python has many objects and data structures already defined and optimized.  additionally, python makes importing external libraries and packages very easy with PIP (Package installer for Python.)
@@ -261,6 +255,23 @@ print(T.index(3))
 print(T.count(3))
 ``` 
 ## Files
+These are the 
+
+| Test | Description |
+| ------ | ----------- |
+| r   | read only |
+| rb | read binary|
+| r+    | read + write|
+| rb+  | read + write binary |
+| w   | write only |
+| wb | write binary|
+| w+    | write + read|
+| wb+  | write + read binary |
+| a   | append only |
+| ab | append binary|
+| a+    | append + read|
+| ab+  | append + read binary |
+
 To create a basic text file and save, we must 'open', 'write', and 'close' a file:
 ```python
 f = open('data1.txt', 'w')   #'w' is for writing
