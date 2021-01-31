@@ -178,13 +178,120 @@ s1='test to reverse'
 print(s1[::-1])
 #   esrever ot tset
 ```
+### Nesting Lists
+Since arbitrary objects can be placed in a list, you can make a list of lists.  These can be built in a way similar to trees or matricies, although there are better alternatives for both structures in python.
+```python
+M = [[1,2,3],
+    [4,5,6],
+    [7,8,9]]
+#   print first row
+print(M[0])
+```
 
+### Comprehensions
+Comprehensions are similar to the set-builder notation used in mathematics, and can be used to map and filter lists in python.  The following example will print out the column vector of matix M defined above.  Comprehensions can be used with lists, sets, dictionaries, and generators.
+```
+#   print middle element 
+print(M[1][2])
+```
+
+From the example above, its easy to see that working with rows is really easy; they can be selected by using their indicies.  To get a column of the matrix though, we have to go into each row list and select the nth element and return it in a list.  This involves comprehensions.
+```python
+#   print second column
+col2=[row[1] for row in M]
+print(col2)
+```
+In the code above, notice that we are looking over each row and returning the value of row(1).  More complicated expressions can be made by changing the expressions for the value returned or how we filter the data.
+```python
+#   make a list of the value col2+1
+col2=[row[1]+1 for row in M]
+print(col2)
+```
+```python
+#   make a list of the value col2^2 if odd
+col2=[row[1]**2 for row in M if row[1]%2!=0]
+print(col2)
+```
+These last few examples have shown comprehensions used to filter matrix M.  Compresensions are also useful in generating new lists, as shown in the following examples.  Notice that **list(range(4))** makes the list [0,1,2,3]
+```python
+#   some more complex comprehensions with lists
+L1=[[x*10,x**2] for x in range(4)]
+L2=[[x**2,x,x**-2] for x in range(10,1,-2)]
+print(L1,L2)
+```
+Comprehensions can be inclosed in parentheses to make a generator
+```python
+#   sum the rows in M
+G = (sum(row) for row in M)
+print(next(G),next(G),next(G))
+``` 
 
 ## Dictionaries
+With lists, objects could be refered to with an index position that was ordered zero to n.  Dictionaries do not have a numerical index so they lack the sense of order lists have. Instead they feature a 'key' that will reference a corresponding value.  Below are three ways of creating/adding to a dictionary.
 
+```python
+D1 = {'name': 'Sky', 'age': '25', 'job': 'dev'}
+print (D1['name'])
+D2 = dict(name='Sky', age=25, job='dev')
+print (D2['name'])
+D3 = {}
+D3['name'] = 'Sky'
+D3['age'] = 25
+D3['job']='dev'
+print (D3['name'])
+``` 
 
 ## Tuples
+Tuples represent a group of objects and are immutable like strings. They can be indexed and manipulated similarly to lists.
 
+```python
+#   Creating and manipulating tuples
+T = (1,2,3,4)
+T = T + (5,6)
+print (T)
+print(T.index(3))
+print(T.count(3))
+``` 
 ## Files
+To create a basic text file and save, we must 'open', 'write', and 'close' a file:
+```python
+f = open('data1.txt', 'w')   #'w' is for writing
+f.write('This is an example file\n')
+f.close()
+``` 
+Now to open the text and read in our one line string:
+```python
+f = open('data1.txt')   #'r' for read is the default
+textIn = f.read()
+print(textIn)
+``` 
+This is cool, but note that this is a very basic example.  We are reading and writing to the same location that our program is executed from; for most data processing exmples we would most likely keep all data somewhere far from the program location and possible in various locations.  We are also just writing a single string to the file and extracting a single string.  This is not very helpful if we have a page of delineatd data or a binary file.`
 
+### Binary Byte File Example
+I will talk about binary files more when there is a reason to, but I think it is helpful to include this example.
+```python
+import struct
+#   example 1
+packed = struct.pack('>i4sh', 7, b'spam', 8)
+#print(packed)
+file = open('data.bin', 'wb')
+file.write(packed)
+file.close()
+
+#   now we can open the file
+dataIn = open('data.bin', 'rb').read()
+print(dataIn[4:8])
+
+#   example 2
+f=open("binfile.bin","wb")
+num=[5, 10, 15, 20, 25]
+arr=bytearray(num)
+f.write(arr)
+f.close()
+
+f=open("binfile.bin","rb")
+num=list(f.read())
+print (num)
+f.close()
+``` 
 
