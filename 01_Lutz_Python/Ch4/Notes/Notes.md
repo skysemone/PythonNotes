@@ -114,6 +114,7 @@ so in this instance, **'a==b'** returns true, but **'a is b'** returns false.
  
 
 ### Using Regular Expressions for Strings
+This section will use resources outside of the Lutz text.
 #### What are regular expressions
 #### Match
 #### Search
