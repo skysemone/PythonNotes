@@ -13,7 +13,7 @@ Python was designed by Guido van Rossum in 1991.  it is considered:
  + Structured:  Similar to imparitive languages, these are langauges that give instructions, but impove claity and efficiency by using several control flow methods like while loops, for loops, if statements, etc. 
  + Reflexive:  programming languages able to examinge, introspect, and modify its own structure.
  
- | Option | Description |
+ | Test | Description |
  | ------ | ----------- |
  | data   | path to data files to supply the data that will be passed into templates. |
  | engine | engine to be used for processing templates. Handlebars is the default. |
