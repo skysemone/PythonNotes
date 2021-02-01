@@ -255,8 +255,24 @@ print(T.index(3))
 print(T.count(3))
 ``` 
 ## Files
-These are the 
+To create a basic text file and save, we must 'open', 'write', and 'close' a file:
+```python
+f = open('data1.txt', 'w')   #'w' is for writing
+f.write('This is an example file\n')
+f.close()
+``` 
+Now to open the text and read in our one line string:
+```python
+f = open('data1.txt')   #'r' for read is the default
+textIn = f.read()
+print(textIn)
+``` 
 
+
+This is cool, but note that this is a very basic example.  We are reading and writing to the same location that our program is executed from; for most data processing exmples we would most likely keep all data somewhere far from the program location and possible in various locations.  We are also just writing a single string to the file and extracting a single string.  This is not very helpful if we have a page of delineatd data or a binary file.`
+
+
+These are the access modes used with files:
 | Test | Description |
 | ------ | ----------- |
 | r   | read only |
@@ -271,20 +287,6 @@ These are the
 | ab | append binary|
 | a+    | append + read|
 | ab+  | append + read binary |
-
-To create a basic text file and save, we must 'open', 'write', and 'close' a file:
-```python
-f = open('data1.txt', 'w')   #'w' is for writing
-f.write('This is an example file\n')
-f.close()
-``` 
-Now to open the text and read in our one line string:
-```python
-f = open('data1.txt')   #'r' for read is the default
-textIn = f.read()
-print(textIn)
-``` 
-This is cool, but note that this is a very basic example.  We are reading and writing to the same location that our program is executed from; for most data processing exmples we would most likely keep all data somewhere far from the program location and possible in various locations.  We are also just writing a single string to the file and extracting a single string.  This is not very helpful if we have a page of delineatd data or a binary file.`
 
 ### Binary Byte File Example
 I will talk about binary files more when there is a reason to, but I think it is helpful to include this example.
@@ -312,5 +314,16 @@ f=open("binfile.bin","rb")
 num=list(f.read())
 print (num)
 f.close()
+``` 
+### Unicode Text Files
+Python defaults to ascii, but unicode is also supported.  UTF-8 is used in 95% of the internet because it supports so many characters.  The first 128 Unicode code points represent the ASCII characters.
+
+```python
+#   make a unicode character and write to file
+print('\xc4')
+S = 'test unicode:  ' + '\xc4'
+file = open('uni.txt', 'w', encoding = 'utf-8')
+file.write(S)
+file.close()
 ``` 
 
