@@ -1,14 +1,14 @@
 # Chaper 4 Problems and Solutions
 ## 1.)  What are the core data types in Python?
 1. Numbers
- * integer
- * floating point
- * complex
- * fractional
- * decimal
+    * integer
+    * floating point
+    * complex
+    * fractional
+    * decimal
 2. Strings
- * text string
- * byte string
+    * text string
+    * byte string
 3. Lists
 4. Dictionaries
 5. Tuples
