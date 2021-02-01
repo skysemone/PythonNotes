@@ -1,8 +1,3 @@
-# Solutions to Additional Problems
-This is just the contents of the Additional Solutions folder all on one page
-
-## 1.) Using **csv** similar to examples 1 and 2, read data1.txt into a matrix and print it out.
-``` python
 '''
 Created on Jan 31, 2021
 @author: Sky Semone
@@ -20,5 +15,3 @@ with open(filepath1, 'r') as csv_file:
     for row in csv_reader:
         M.append(list(row))
 print(M)
-
-```
