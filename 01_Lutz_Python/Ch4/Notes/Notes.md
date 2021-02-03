@@ -119,14 +119,14 @@ This section will use resources outside of the Lutz text.
 #### What are regular expressions
 #### Special characters
 These characters will match:
-1. **.**   any given character except the newline (DOTALL flag overrides this exception.
-2. **^**  the start of a string (and after newlines if in MULTILINE mode)
-3. **$**  the end of a string (and before a newline in MULTILINE mode)
-4. **\*** 0 or more repetitions of the proceeding RE
-4. **+**  1 or more repetitions of the proceeding RE
-5. **?**  0 or 1 repetitions of the proceeding RE
-6. ** \*?, +?, ?? **
-7. 
++ **.**   any given character except the newline (DOTALL flag overrides this exception.
++  **^**  the start of a string (and after newlines if in MULTILINE mode)
++  **$**  the end of a string (and before a newline in MULTILINE mode)
++ **\*** 0 or more repetitions of the proceeding RE
++  **+**  1 or more repetitions of the proceeding RE+
++ **?**  0 or 1 repetitions of the proceeding RE
++ ** `*?, +?, ??` **
++ 
 #### Match
 #### Search
 #### Split
