@@ -50,7 +50,7 @@ with open(filepath1, 'r') as csv_file:
 print(L)
 
 ```
-## 3.) Again using **csv**, read data3.txt into a dictionary with the first column as the key, then with a nested list, with each row of data in the sheet as a list of floats in the dictionary  With D as the dictionary, 
+## 3.) Again using **csv**, read data3.txt into a dictionary with the first column as the key, then with a nested list, with each row of data in the sheet as a list of floats in the dictionary  With D as the dictionary:
 ```python
 >>>print(D['Apple'][1])  
 
@@ -80,4 +80,39 @@ with open(filepath1, 'r') as csv_file:
         D[fruitName] = F
        
 print(D['Apple'][1])
+```
+## 4.) Use **csv** to read data4.txt.  This is a data file made by a LakeShore brand VSM.  Make a nested list that contains every resistance memsurement, and the total elapsed time in seconds.  The resistance measurement can be found in the columns that start with '1' and the total time is just the running sum of the "Elapsed Time" values.  Note there are two "Elapsed Time" floats that occur for every resistance value, and it is formatted as 'hours:minutes:seconds'. 
+
+
+```python
+'''
+Created on Jan 31, 2021
+
+@author: Sky Semone
+
+Solution for question three
+'''
+
+import csv
+
+filepath1 = 'path to data4.txt'
+
+F=[['resistance', 'total time']]
+totalTime = 0
+with open(filepath1, 'r') as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter='\t')
+
+    for row in csv_reader:
+        if row:
+            if row[0]=='Elapsed Time:':
+                timeList = row[1].split(':')
+                
+                totalTime += 3600*float(timeList[0])+60*float(timeList[1])\
+                + float(timeList[2])
+
+            if row[0]=='1':
+                F.append([float(row[1]), totalTime])
+                print(row)
+
+print(F)
 ```
