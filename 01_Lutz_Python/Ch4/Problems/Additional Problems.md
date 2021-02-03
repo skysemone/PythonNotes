@@ -1,7 +1,7 @@
 # Additional Questions
 ### 1.) Using 'csv' similar to examples 1 and 2, read data1.txt into a nested list and print it out.
 
-### 2.) Using 'csv', read data2.txt into a nested list of floats.  If there is any data missing, a zero should be written.  Letting L by the nested list,
+### 2.) Using 'csv', read data2.txt into a nested list of floats.  If there is any data missing, a zero should be written.  Letting L be the nested list,
 ```python
 >>>print(L)  
 
