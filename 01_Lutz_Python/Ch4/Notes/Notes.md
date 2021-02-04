@@ -125,11 +125,55 @@ These characters will match:
 + **\*** 0 or more repetitions of the proceeding RE
 +  **+**  1 or more repetitions of the proceeding RE+
 + **?**  0 or 1 repetitions of the proceeding RE
-+ ** `*?, +?, ??` **
-+ 
++ **_?** adding '?' after the qualifier match as few character as possible
++ **{m}** m copies of previous RE
++ **{m,n}** m to n copies of previous RE
++ **[]** a set of characters
++ **a|b** set a or set b
++ **\w** words i.e '[a-zA-Z0-9_]'
+
 #### Match
+```python
+import re
+#   match a date string
+regex = r'([a-zA-Z]+) (\d+)'
+if re.search(regex, "June 24"):
+    match = re.search(regex, "June 20")
+    print('Match at index %s, %s' % (match.start(), match.end()))
+```
+#### Findall
+```python
+import re
+txt = 'This is a nice example, isn't it?'
+x = re.findall('is', txt)
+print(x))
+```
+```python
+import re
+regex = r'[a-zA-Z]+ \d+'
+matches = re.findall(regex, 'December 21, August 10, January 2')
+for match in matches:
+    print('Full match: %s' % (match))
+
+```
+
 #### Search
-#### Split
+
+```python 
+import re
+regex = re.compile(r'(\w+) World')
+result = regex.search('Hello World this is a test')
+if result:
+
+    print(result.start(), result.end())
+
+for result in regex.findall('1 World, 2 World, red World, blue World'):
+    print(result)
+
+print(regex.sub(r"\1 friends", "Hello World"))
+```
+
+
 
 
 ## Lists
@@ -154,6 +198,7 @@ print(L+2)
 
 ### List Methods of Interest
 In the previous examples, it was shown that lists could be joined together by the **+** operator.  If we wish to add an object to a list first creating a list to hold it, just the **append()** method.  Similarly , the **pop()** method will remove the object from the list at a given position and return it.
+
 ``` python
 L=['string1', 123.0,'string2']
 L.append('last string')
@@ -168,6 +213,7 @@ print(L2)
 There are also **sort()** and **reverse()** methods that can be pretty helpful if needed.  Object types must be considered for the sort function, since it might not make sense to try to compare a string to an integer.  Also, the sort method will always prioritize capital letters over lower case letters, which may be of concern when doing some serious string parsing. 
 
 Now that we have some familiarity of 2 Python types, we can explore an example of converting one into another.  First a list of characters will be converted into a string, using the **join()** method and then separated back into a list using the **list** function.  **join** works on a string 'separator', and will iterate over the object placed in the method.  If the separator is empty, then the objects will be placed right next to each other.
+
 ``` python
 L1 = ['a', 'b', 'c', 'd']
 separator = ''
