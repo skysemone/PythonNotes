@@ -18,7 +18,7 @@ Many of the mathematical hammers used in Python need to be imported from numpy a
 + Hex, Octal, Binary literals
 + Complex 
 + Fractions
-
++ Decimals
 
 ## Evaluation Differences Between Python2 and Python3
 Dividing integers in python3 now returns a float.
@@ -29,7 +29,7 @@ Dividing integers in python3 now returns a float.
 | `10//4`    | 2 | 2 |
 |`10//4.0`  | 2.0 | 2.0 |
 
-## Discrete Math Examples 
+## Simple Discrete Math Examples 
  
 ## Complex Numbers
 
@@ -67,7 +67,7 @@ while x:
 ## Other Tools
 ### Included functions
 
-### 'import math'
+### 'math'
 #### Constants
 + `math.pi` = 3.14....
 + `math.e` = 2.718....
@@ -76,3 +76,6 @@ while x:
 + `math.nan`  == float('nan')
 
 #### Special Functions
+
+
+### 'cmath'
