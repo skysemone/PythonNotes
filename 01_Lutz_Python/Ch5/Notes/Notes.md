@@ -2,8 +2,6 @@
 
 ## Basics
 
-
-
 This book presents numeric data types before strings, lists etc since numbers are so fundamental to structuring and expressing objects in Python.  While the book goes into great detail explaining the underlying mathematics, I will assume a basic understanding of discrete mathematics to direct this section of notes toward application.
 
 Many of the mathematical hammers used in Python need to be imported from numpy and other modules; these are consequentially excluded from most of the book and these set of notes.    The built in functions and modules for mathematical objects in Python include:
@@ -35,9 +33,6 @@ Dividing integers in python3 now returns a float.
 | `10/4.0` | 2.5| 2.5 |
 | `10//4`    | 2 | 2 |
 |`10//4.0`  | 2.0 | 2.0 |
-
-## Simple Discrete Math Examples 
-
  
 ## Complex Numbers
 The imaginary part of the complex number can be expressed by **j** or **J**.  A few examples of mathematics with complex numbers follows.  There is also a standard module **cmath** which will be discussed at the end of this section.
@@ -153,8 +148,13 @@ while x:
 ### Included functions
 
 ### 'math'
-
-
+#### Number-theoretic and representation functions
++ `math.ceil(x)`                ceil function, next integer greater than x
++ `math.comb(p,q)`            choose p items from q, n! / (k! * (n - k)!) when k <= n
++ `math.factorial(x)`      x!
++ `math.gcd(x)`                  greatest common denominator, x is an int
++ `math.isclose(a,b)`      true if a,b are close.  optional arguments rel_tol, abs_tol
++ `math.trunc(x)`              truncate x to integer
 #### Constants
 + `math.pi` = 3.14....
 + `math.e` = 2.718....
@@ -162,8 +162,27 @@ while x:
 + `math.inf` == float('inf')
 + `math.nan`  == float('nan')
 
-#### Special Functions
+#### Special functions
++ `math.erf(x)`               error function
++ `math.erfc(x)`             complimentry error function
++ `math.gamma(x)`           error function
++ `math.lgamma(x)`         natural log of the absolute value of the gamma function
++ `math.dist(p,q)`         returns the euclidean distance between points i.e. sqrt(sum((px - qx) ** 2.0 for px, qx in zip(p, q)))
+
+#### Power and logarithmic
++ `math.sqrt(x)`             square root
++ `math.exp(x)`               exponential function
++ `math.expm1(x)`           exp(x)-1, but more accurate
++ `math.log(x, [b])`     log of x, using optional base b
+
+
+#### Trig and hyperbolic functions
++ `math.sin(x)`, `math.cos(x)`,`math.tan(x)`,  `math.asin(x)`, `math.acos(x)`, `math.atan(x)`
++ `math.sinh(x)`, `math.cosh(x)`,`math.tanh(x)`,  `math.asinh(x)`, `math.acosh(x)`, `math.atanh(x)`
++ `math.radians(x)` = degrees to radians
++ `math.degrees(x)` = radians to degrees
 
 ### 'random'
+
 
 ### 'cmath'
