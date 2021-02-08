@@ -183,6 +183,23 @@ while x:
 + `math.degrees(x)` = radians to degrees
 
 ### 'random'
+There are many advanced things you can do with this module, but for most instances, just a regular pseudo-random number will work just fine.  It's been noted that this module should not be used for making keys, or for anything meant to be secure, but will work just fine for math and statistics simulations (see the extra examples and problems for this chapter.)
 
+To make a random integer over a range, use 
+```python
+import random
+for x in range(0, 10):
+    print(random.randint(0,10))
+```
+Other useful functions include
++ `random.random()`               random float between 0 and 1
++ `random.uniform(a,b)`       random float between a,b
++ `random.gauss(mu,sig)`     random number based on the Gaussian distribution
 
 ### 'cmath'
+Complex numbers are included with Python, but this module contains many of the tools needed to work with them outside of basic addition and multiplication, etc.  Many of the trig functions available in the `math` module have complex variants here.
++ `cmath.phase(x)`                 argument of x, `math.atan2(x.imag, x.real)`
++ `cmath.rect(x)`                   goes from polar to rectilinear coordinates.
++ `cmath.polar(x)`                 gives the complex value in r, phi
+
+
