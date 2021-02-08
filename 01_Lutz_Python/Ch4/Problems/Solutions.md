@@ -1,4 +1,4 @@
-# Chaper 4 Problems and Solutions
+# Chaper 4 Solutions
 ### 1.)  What are the core data types in Python?
 1. Numbers
     * integer
