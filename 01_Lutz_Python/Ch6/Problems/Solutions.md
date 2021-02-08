@@ -1,13 +1,34 @@
 # Chaper 6 Problems and Solutions
-### 1.)  Parathentical values are determined first, so 2*7=14.
-### 2.)  Multiplication is performed first, so 6+4=10.
-### 3.)  Again, multiplication is first, so its 12.
-### 4.)  `math.sqrt(x)` can give the square root, and using x**2 will give x squared.  Using `pow(x,n)` will give the square root if n=0.5 or the square if n=2.
-### 5.)  Floating point
-### 6.) 
-|truncate|int(n), math.trunc(n)|
-|round|round(n, digits)|
-|floor|math.floor(n)|
-### 7.)  float(int)
-### 8.)  oct(int), hex(int)
-### 9.)  int(s, base) function does the job.  The eval(s) function can be used as well but has security issues and takes up more resources
+### 1.)  Consider the following; do they change the value printed for `A`?
+  + A = "problem"
+  + B = A
+  + B = "test"
+  ---
+  
+  **No change.**  When B is assigned the string "problem", its reference is pointed at the object A.  When reassigned to "test", B has a pointer to a new string, while A still points to "problem".
+  
+### 2.)  Consider the following; do they change the value printed for `A`?
++ A = ["problem"]
++ B = A
++ B[0] = "test"
+---
+
+**Yes, it changes A.**  In this case, the object that both A and B point to has been changed since lists are not immutable.  This can be seen in the following code:
+
+```python
+A = ["problem"]
+B = A
+B[0] = "test"
+print(A,B)
+
+A[0] = "new"
+print(A,B)
+```
+
+### 3.)  Consider the following; do they change the value printed for `A`?
++ A = ["problem"]
++ B = A[:]
++ B = "test"
+---
+
+**No change.**  Since we are taking a slice of the list, B now points at the slice.
