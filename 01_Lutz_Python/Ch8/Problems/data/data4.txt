@@ -1,0 +1,2250 @@
+[Sample parameters]
+Sample Type:	In-line
+Current Orientation:	Current In-Plane - Parallel to Field
+Sample ID:	CoSb
+Comments:	
+[Measurements]
+
+<Step 1: Resistance vs. Temperature>
+Start Time:	10/30/2016 5:54:39 PM
+Time Completed:	10/30/2016 5:54:46 PM
+Elapsed Time:	0:0:7
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.8777205E+1		373.039	5.23846E-3
+
+<Step 2: Wait 10 seconds>
+Start Time:	10/30/2016 5:54:46 PM
+Time Completed:	10/30/2016 5:54:56 PM
+Elapsed Time:	0:0:10
+
+<Step 3: Resistance vs. Temperature>
+Start Time:	10/30/2016 5:54:56 PM
+Time Completed:	10/30/2016 5:55:03 PM
+Elapsed Time:	0:0:7
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.858194E+1		372.875	5.21680E-3
+
+<Step 4: Wait 10 seconds>
+Start Time:	10/30/2016 5:55:03 PM
+Time Completed:	10/30/2016 5:55:13 PM
+Elapsed Time:	0:0:10
+
+<Step 5: Resistance vs. Temperature>
+Start Time:	10/30/2016 5:55:14 PM
+Time Completed:	10/30/2016 5:56:21 PM
+Elapsed Time:	0:1:7
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.8178775E+1		372.621	5.23193E-3
+
+<Step 6: Wait 10 seconds>
+Start Time:	10/30/2016 5:56:21 PM
+Time Completed:	10/30/2016 5:56:31 PM
+Elapsed Time:	0:0:10
+
+<Step 7: Resistance vs. Temperature>
+Start Time:	10/30/2016 5:56:31 PM
+Time Completed:	10/30/2016 5:57:38 PM
+Elapsed Time:	0:1:7
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.8025235E+1		372.973	5.26298E-3
+
+<Step 8: Wait 10 seconds>
+Start Time:	10/30/2016 5:57:38 PM
+Time Completed:	10/30/2016 5:57:48 PM
+Elapsed Time:	0:0:10
+
+<Step 9: Resistance vs. Temperature>
+Start Time:	10/30/2016 5:57:49 PM
+Time Completed:	10/30/2016 5:58:54 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.798768E+1		373.139	5.24602E-3
+
+<Step 10: Wait 10 seconds>
+Start Time:	10/30/2016 5:58:54 PM
+Time Completed:	10/30/2016 5:59:04 PM
+Elapsed Time:	0:0:10
+
+<Step 11: Resistance vs. Temperature>
+Start Time:	10/30/2016 5:59:05 PM
+Time Completed:	10/30/2016 6:00:10 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.79518E+1		373.156	5.26533E-3
+
+<Step 12: Wait 10 seconds>
+Start Time:	10/30/2016 6:00:11 PM
+Time Completed:	10/30/2016 6:00:21 PM
+Elapsed Time:	0:0:10
+
+<Step 13: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:00:21 PM
+Time Completed:	10/30/2016 6:01:27 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.791067E+1		373.114	5.21341E-3
+
+<Step 14: Wait 10 seconds>
+Start Time:	10/30/2016 6:01:27 PM
+Time Completed:	10/30/2016 6:01:37 PM
+Elapsed Time:	0:0:10
+
+<Step 15: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:01:38 PM
+Time Completed:	10/30/2016 6:02:43 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.791103E+1		373.063	5.21602E-3
+
+<Step 16: Wait 10 seconds>
+Start Time:	10/30/2016 6:02:44 PM
+Time Completed:	10/30/2016 6:02:54 PM
+Elapsed Time:	0:0:10
+
+<Step 17: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:02:54 PM
+Time Completed:	10/30/2016 6:03:59 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.785667E+1		373.033	5.26742E-3
+
+<Step 18: Wait 10 seconds>
+Start Time:	10/30/2016 6:04:00 PM
+Time Completed:	10/30/2016 6:04:10 PM
+Elapsed Time:	0:0:10
+
+<Step 19: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:04:10 PM
+Time Completed:	10/30/2016 6:05:15 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.7805765E+1		373.019	5.26298E-3
+
+<Step 20: Wait 10 seconds>
+Start Time:	10/30/2016 6:05:15 PM
+Time Completed:	10/30/2016 6:05:25 PM
+Elapsed Time:	0:0:10
+
+<Step 21: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:05:26 PM
+Time Completed:	10/30/2016 6:06:31 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.7772745E+1		373.009	5.22880E-3
+
+<Step 22: Wait 10 seconds>
+Start Time:	10/30/2016 6:06:31 PM
+Time Completed:	10/30/2016 6:06:41 PM
+Elapsed Time:	0:0:10
+
+<Step 23: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:06:42 PM
+Time Completed:	10/30/2016 6:07:47 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.771171E+1		373.007	5.26011E-3
+
+<Step 24: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:07:47 PM
+Time Completed:	10/30/2016 6:09:27 PM
+Elapsed Time:	0:1:40
+
+<Step 25: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:09:27 PM
+Time Completed:	10/30/2016 6:10:32 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.7618725E+1		373.009	5.24550E-3
+
+<Step 26: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:10:32 PM
+Time Completed:	10/30/2016 6:12:12 PM
+Elapsed Time:	0:1:40
+
+<Step 27: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:12:13 PM
+Time Completed:	10/30/2016 6:13:18 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.748247E+1		373.007	5.25985E-3
+
+<Step 28: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:13:18 PM
+Time Completed:	10/30/2016 6:14:58 PM
+Elapsed Time:	0:1:40
+
+<Step 29: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:14:59 PM
+Time Completed:	10/30/2016 6:16:04 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.7243575E+1		373.004	5.24681E-3
+
+<Step 30: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:16:04 PM
+Time Completed:	10/30/2016 6:17:44 PM
+Elapsed Time:	0:1:40
+
+<Step 31: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:17:45 PM
+Time Completed:	10/30/2016 6:18:50 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.7000745E+1		373.003	5.25202E-3
+
+<Step 32: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:18:50 PM
+Time Completed:	10/30/2016 6:20:30 PM
+Elapsed Time:	0:1:40
+
+<Step 33: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:20:31 PM
+Time Completed:	10/30/2016 6:21:36 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.6681145E+1		373.003	5.26611E-3
+
+<Step 34: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:21:36 PM
+Time Completed:	10/30/2016 6:23:16 PM
+Elapsed Time:	0:1:40
+
+<Step 35: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:23:16 PM
+Time Completed:	10/30/2016 6:24:22 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.630814E+1		373.003	5.25124E-3
+
+<Step 36: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:24:22 PM
+Time Completed:	10/30/2016 6:26:02 PM
+Elapsed Time:	0:1:40
+
+<Step 37: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:26:02 PM
+Time Completed:	10/30/2016 6:27:07 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.589973E+1		373.001	5.25463E-3
+
+<Step 38: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:27:07 PM
+Time Completed:	10/30/2016 6:28:47 PM
+Elapsed Time:	0:1:40
+
+<Step 39: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:28:47 PM
+Time Completed:	10/30/2016 6:29:53 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.5436245E+1		372.998	5.23402E-3
+
+<Step 40: Wait 1 minutes 40 seconds>
+Start Time:	10/30/2016 6:29:53 PM
+Time Completed:	10/30/2016 6:31:33 PM
+Elapsed Time:	0:1:40
+
+<Step 41: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:31:33 PM
+Time Completed:	10/30/2016 6:32:38 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.496334E+1		373.001	5.24785E-3
+
+<Step 42: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:32:38 PM
+Time Completed:	10/30/2016 6:35:58 PM
+Elapsed Time:	0:3:20
+
+<Step 43: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:35:58 PM
+Time Completed:	10/30/2016 6:37:03 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.4207675E+1		372.998	5.24524E-3
+
+<Step 44: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:37:03 PM
+Time Completed:	10/30/2016 6:40:23 PM
+Elapsed Time:	0:3:20
+
+<Step 45: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:40:24 PM
+Time Completed:	10/30/2016 6:41:29 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.3476205E+1		373.003	5.23793E-3
+
+<Step 46: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:41:29 PM
+Time Completed:	10/30/2016 6:44:49 PM
+Elapsed Time:	0:3:20
+
+<Step 47: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:44:49 PM
+Time Completed:	10/30/2016 6:45:55 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.2830805E+1		373.001	5.25124E-3
+
+<Step 48: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:45:55 PM
+Time Completed:	10/30/2016 6:49:15 PM
+Elapsed Time:	0:3:20
+
+<Step 49: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:49:15 PM
+Time Completed:	10/30/2016 6:50:20 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.231797E+1		372.994	5.25359E-3
+
+<Step 50: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:50:20 PM
+Time Completed:	10/30/2016 6:53:40 PM
+Elapsed Time:	0:3:20
+
+<Step 51: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:53:41 PM
+Time Completed:	10/30/2016 6:54:46 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.1793445E+1		373.006	5.26298E-3
+
+<Step 52: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:54:47 PM
+Time Completed:	10/30/2016 6:58:07 PM
+Elapsed Time:	0:3:20
+
+<Step 53: Resistance vs. Temperature>
+Start Time:	10/30/2016 6:58:07 PM
+Time Completed:	10/30/2016 6:59:13 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.135118E+1		373.011	5.25202E-3
+
+<Step 54: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 6:59:13 PM
+Time Completed:	10/30/2016 7:02:33 PM
+Elapsed Time:	0:3:20
+
+<Step 55: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:02:33 PM
+Time Completed:	10/30/2016 7:03:39 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.086373E+1		373.001	5.22671E-3
+
+<Step 56: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:03:40 PM
+Time Completed:	10/30/2016 7:07:00 PM
+Elapsed Time:	0:3:20
+
+<Step 57: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:07:00 PM
+Time Completed:	10/30/2016 7:08:05 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	6.0432195E+1		373.001	5.23663E-3
+
+<Step 58: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:08:06 PM
+Time Completed:	10/30/2016 7:11:26 PM
+Elapsed Time:	0:3:20
+
+<Step 59: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:11:26 PM
+Time Completed:	10/30/2016 7:12:31 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.998266E+1		373.003	5.25698E-3
+
+<Step 60: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:12:31 PM
+Time Completed:	10/30/2016 7:15:51 PM
+Elapsed Time:	0:3:20
+
+<Step 61: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:15:52 PM
+Time Completed:	10/30/2016 7:16:57 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.9527515E+1		373.001	5.25646E-3
+
+<Step 62: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:16:57 PM
+Time Completed:	10/30/2016 7:20:17 PM
+Elapsed Time:	0:3:20
+
+<Step 63: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:20:18 PM
+Time Completed:	10/30/2016 7:21:23 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.910444E+1		373.002	5.26455E-3
+
+<Step 64: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:21:23 PM
+Time Completed:	10/30/2016 7:24:43 PM
+Elapsed Time:	0:3:20
+
+<Step 65: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:24:43 PM
+Time Completed:	10/30/2016 7:25:48 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.87064E+1		372.999	5.21915E-3
+
+<Step 66: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:25:49 PM
+Time Completed:	10/30/2016 7:29:09 PM
+Elapsed Time:	0:3:20
+
+<Step 67: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:29:09 PM
+Time Completed:	10/30/2016 7:30:14 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.830729E+1		372.998	5.23037E-3
+
+<Step 68: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:30:14 PM
+Time Completed:	10/30/2016 7:33:34 PM
+Elapsed Time:	0:3:20
+
+<Step 69: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:33:34 PM
+Time Completed:	10/30/2016 7:34:40 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.7916405E+1		372.998	5.25542E-3
+
+<Step 70: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:34:40 PM
+Time Completed:	10/30/2016 7:38:00 PM
+Elapsed Time:	0:3:20
+
+<Step 71: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:38:00 PM
+Time Completed:	10/30/2016 7:39:05 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.752909E+1		373.001	5.26063E-3
+
+<Step 72: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:39:06 PM
+Time Completed:	10/30/2016 7:42:26 PM
+Elapsed Time:	0:3:20
+
+<Step 73: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:42:26 PM
+Time Completed:	10/30/2016 7:43:31 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.7177425E+1		373.001	5.26116E-3
+
+<Step 74: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:43:31 PM
+Time Completed:	10/30/2016 7:46:51 PM
+Elapsed Time:	0:3:20
+
+<Step 75: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:46:51 PM
+Time Completed:	10/30/2016 7:47:57 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.684614E+1		373.001	5.26116E-3
+
+<Step 76: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:47:57 PM
+Time Completed:	10/30/2016 7:51:17 PM
+Elapsed Time:	0:3:20
+
+<Step 77: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:51:17 PM
+Time Completed:	10/30/2016 7:52:23 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.6511165E+1		372.996	5.23272E-3
+
+<Step 78: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:52:23 PM
+Time Completed:	10/30/2016 7:55:43 PM
+Elapsed Time:	0:3:20
+
+<Step 79: Resistance vs. Temperature>
+Start Time:	10/30/2016 7:55:44 PM
+Time Completed:	10/30/2016 7:56:49 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.6182505E+1		372.997	5.21001E-3
+
+<Step 80: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 7:56:49 PM
+Time Completed:	10/30/2016 8:00:09 PM
+Elapsed Time:	0:3:20
+
+<Step 81: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:00:10 PM
+Time Completed:	10/30/2016 8:01:14 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.59113E+1		373.0	5.26638E-3
+
+<Step 82: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:01:15 PM
+Time Completed:	10/30/2016 8:04:35 PM
+Elapsed Time:	0:3:20
+
+<Step 83: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:04:35 PM
+Time Completed:	10/30/2016 8:05:40 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.564928E+1		373.001	5.23193E-3
+
+<Step 84: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:05:40 PM
+Time Completed:	10/30/2016 8:09:00 PM
+Elapsed Time:	0:3:20
+
+<Step 85: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:09:01 PM
+Time Completed:	10/30/2016 8:10:05 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.538094E+1		372.999	5.24524E-3
+
+<Step 86: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:10:06 PM
+Time Completed:	10/30/2016 8:13:26 PM
+Elapsed Time:	0:3:20
+
+<Step 87: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:13:26 PM
+Time Completed:	10/30/2016 8:14:31 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.5133105E+1		372.999	5.23846E-3
+
+<Step 88: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:14:32 PM
+Time Completed:	10/30/2016 8:17:52 PM
+Elapsed Time:	0:3:20
+
+<Step 89: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:17:52 PM
+Time Completed:	10/30/2016 8:18:57 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.493903E+1		372.998	5.27081E-3
+
+<Step 90: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:18:57 PM
+Time Completed:	10/30/2016 8:22:17 PM
+Elapsed Time:	0:3:20
+
+<Step 91: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:22:17 PM
+Time Completed:	10/30/2016 8:23:23 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.473387E+1		373.0	5.24550E-3
+
+<Step 92: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:23:23 PM
+Time Completed:	10/30/2016 8:26:43 PM
+Elapsed Time:	0:3:20
+
+<Step 93: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:26:43 PM
+Time Completed:	10/30/2016 8:27:49 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.4549815E+1		373.001	5.25646E-3
+
+<Step 94: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:27:49 PM
+Time Completed:	10/30/2016 8:31:09 PM
+Elapsed Time:	0:3:20
+
+<Step 95: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:31:09 PM
+Time Completed:	10/30/2016 8:32:14 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.4355505E+1		372.999	5.22254E-3
+
+<Step 96: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:32:14 PM
+Time Completed:	10/30/2016 8:35:34 PM
+Elapsed Time:	0:3:20
+
+<Step 97: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:35:34 PM
+Time Completed:	10/30/2016 8:36:39 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.4197075E+1		373.0	5.25385E-3
+
+<Step 98: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:36:40 PM
+Time Completed:	10/30/2016 8:40:00 PM
+Elapsed Time:	0:3:20
+
+<Step 99: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:40:00 PM
+Time Completed:	10/30/2016 8:41:05 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.4036855E+1		373.001	5.25359E-3
+
+<Step 100: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:41:05 PM
+Time Completed:	10/30/2016 8:44:25 PM
+Elapsed Time:	0:3:20
+
+<Step 101: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:44:26 PM
+Time Completed:	10/30/2016 8:45:31 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.390632E+1		373.001	5.25803E-3
+
+<Step 102: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:45:31 PM
+Time Completed:	10/30/2016 8:48:51 PM
+Elapsed Time:	0:3:20
+
+<Step 103: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:48:51 PM
+Time Completed:	10/30/2016 8:49:56 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.3763865E+1		372.998	5.26533E-3
+
+<Step 104: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:49:57 PM
+Time Completed:	10/30/2016 8:53:17 PM
+Elapsed Time:	0:3:20
+
+<Step 105: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:53:17 PM
+Time Completed:	10/30/2016 8:54:22 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.3656935E+1		373.001	5.23924E-3
+
+<Step 106: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:54:22 PM
+Time Completed:	10/30/2016 8:57:42 PM
+Elapsed Time:	0:3:20
+
+<Step 107: Resistance vs. Temperature>
+Start Time:	10/30/2016 8:57:42 PM
+Time Completed:	10/30/2016 8:58:47 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.351102E+1		372.993	5.26064E-3
+
+<Step 108: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 8:58:48 PM
+Time Completed:	10/30/2016 9:02:08 PM
+Elapsed Time:	0:3:20
+
+<Step 109: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:02:08 PM
+Time Completed:	10/30/2016 9:03:14 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.3401945E+1		372.998	5.24785E-3
+
+<Step 110: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:03:14 PM
+Time Completed:	10/30/2016 9:06:34 PM
+Elapsed Time:	0:3:20
+
+<Step 111: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:06:34 PM
+Time Completed:	10/30/2016 9:07:40 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.331886E+1		373.001	5.21001E-3
+
+<Step 112: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:07:40 PM
+Time Completed:	10/30/2016 9:11:00 PM
+Elapsed Time:	0:3:20
+
+<Step 113: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:11:00 PM
+Time Completed:	10/30/2016 9:12:06 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.3210495E+1		372.997	5.24628E-3
+
+<Step 114: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:12:06 PM
+Time Completed:	10/30/2016 9:15:26 PM
+Elapsed Time:	0:3:20
+
+<Step 115: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:15:27 PM
+Time Completed:	10/30/2016 9:16:33 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.313039E+1		372.999	5.25385E-3
+
+<Step 116: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:16:33 PM
+Time Completed:	10/30/2016 9:19:53 PM
+Elapsed Time:	0:3:20
+
+<Step 117: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:19:53 PM
+Time Completed:	10/30/2016 9:20:58 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.3055165E+1		373.002	5.25855E-3
+
+<Step 118: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:20:59 PM
+Time Completed:	10/30/2016 9:24:19 PM
+Elapsed Time:	0:3:20
+
+<Step 119: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:24:19 PM
+Time Completed:	10/30/2016 9:25:24 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2968855E+1		373.003	5.25803E-3
+
+<Step 120: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:25:25 PM
+Time Completed:	10/30/2016 9:28:45 PM
+Elapsed Time:	0:3:20
+
+<Step 121: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:28:45 PM
+Time Completed:	10/30/2016 9:29:50 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2892685E+1		373.001	5.25646E-3
+
+<Step 122: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:29:51 PM
+Time Completed:	10/30/2016 9:33:11 PM
+Elapsed Time:	0:3:20
+
+<Step 123: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:33:11 PM
+Time Completed:	10/30/2016 9:34:17 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2823185E+1		372.999	5.23350E-3
+
+<Step 124: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:34:17 PM
+Time Completed:	10/30/2016 9:37:37 PM
+Elapsed Time:	0:3:20
+
+<Step 125: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:37:37 PM
+Time Completed:	10/30/2016 9:38:42 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2770495E+1		373.002	5.26220E-3
+
+<Step 126: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:38:42 PM
+Time Completed:	10/30/2016 9:42:02 PM
+Elapsed Time:	0:3:20
+
+<Step 127: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:42:02 PM
+Time Completed:	10/30/2016 9:43:07 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2711725E+1		372.999	5.23950E-3
+
+<Step 128: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:43:07 PM
+Time Completed:	10/30/2016 9:46:27 PM
+Elapsed Time:	0:3:20
+
+<Step 129: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:46:28 PM
+Time Completed:	10/30/2016 9:47:33 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.265105E+1		372.997	5.24367E-3
+
+<Step 130: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:47:33 PM
+Time Completed:	10/30/2016 9:50:53 PM
+Elapsed Time:	0:3:20
+
+<Step 131: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:50:54 PM
+Time Completed:	10/30/2016 9:51:59 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.258167E+1		372.998	5.22384E-3
+
+<Step 132: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:51:59 PM
+Time Completed:	10/30/2016 9:55:19 PM
+Elapsed Time:	0:3:20
+
+<Step 133: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:55:19 PM
+Time Completed:	10/30/2016 9:56:25 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2515865E+1		372.996	5.26037E-3
+
+<Step 134: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 9:56:25 PM
+Time Completed:	10/30/2016 9:59:45 PM
+Elapsed Time:	0:3:20
+
+<Step 135: Resistance vs. Temperature>
+Start Time:	10/30/2016 9:59:45 PM
+Time Completed:	10/30/2016 10:00:51 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2444455E+1		373.003	5.25568E-3
+
+<Step 136: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:00:51 PM
+Time Completed:	10/30/2016 10:04:11 PM
+Elapsed Time:	0:3:20
+
+<Step 137: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:04:11 PM
+Time Completed:	10/30/2016 10:05:16 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.23901E+1		373.001	5.26872E-3
+
+<Step 138: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:05:17 PM
+Time Completed:	10/30/2016 10:08:37 PM
+Elapsed Time:	0:3:20
+
+<Step 139: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:08:37 PM
+Time Completed:	10/30/2016 10:09:42 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.233836E+1		373.002	5.26377E-3
+
+<Step 140: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:09:42 PM
+Time Completed:	10/30/2016 10:13:02 PM
+Elapsed Time:	0:3:20
+
+<Step 141: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:13:02 PM
+Time Completed:	10/30/2016 10:14:08 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2297235E+1		372.998	5.25098E-3
+
+<Step 142: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:14:08 PM
+Time Completed:	10/30/2016 10:17:28 PM
+Elapsed Time:	0:3:20
+
+<Step 143: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:17:28 PM
+Time Completed:	10/30/2016 10:18:34 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.225539E+1		372.998	5.21106E-3
+
+<Step 144: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:18:34 PM
+Time Completed:	10/30/2016 10:21:54 PM
+Elapsed Time:	0:3:20
+
+<Step 145: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:21:54 PM
+Time Completed:	10/30/2016 10:22:59 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2199005E+1		373.001	5.24289E-3
+
+<Step 146: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:22:59 PM
+Time Completed:	10/30/2016 10:26:19 PM
+Elapsed Time:	0:3:20
+
+<Step 147: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:26:19 PM
+Time Completed:	10/30/2016 10:27:25 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.215597E+1		372.999	5.24785E-3
+
+<Step 148: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:27:25 PM
+Time Completed:	10/30/2016 10:30:45 PM
+Elapsed Time:	0:3:20
+
+<Step 149: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:30:45 PM
+Time Completed:	10/30/2016 10:31:50 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2114365E+1		372.996	5.25307E-3
+
+<Step 150: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:31:50 PM
+Time Completed:	10/30/2016 10:35:10 PM
+Elapsed Time:	0:3:20
+
+<Step 151: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:35:10 PM
+Time Completed:	10/30/2016 10:36:16 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2064775E+1		373.003	5.25803E-3
+
+<Step 152: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:36:16 PM
+Time Completed:	10/30/2016 10:39:36 PM
+Elapsed Time:	0:3:20
+
+<Step 153: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:39:36 PM
+Time Completed:	10/30/2016 10:40:42 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.2033425E+1		373.0	5.26220E-3
+
+<Step 154: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:40:42 PM
+Time Completed:	10/30/2016 10:44:02 PM
+Elapsed Time:	0:3:20
+
+<Step 155: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:44:02 PM
+Time Completed:	10/30/2016 10:45:07 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1999095E+1		373.001	5.22437E-3
+
+<Step 156: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:45:07 PM
+Time Completed:	10/30/2016 10:48:27 PM
+Elapsed Time:	0:3:20
+
+<Step 157: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:48:27 PM
+Time Completed:	10/30/2016 10:49:33 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.196154E+1		372.999	5.24028E-3
+
+<Step 158: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:49:33 PM
+Time Completed:	10/30/2016 10:52:53 PM
+Elapsed Time:	0:3:20
+
+<Step 159: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:52:53 PM
+Time Completed:	10/30/2016 10:53:58 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.192125E+1		372.998	5.23585E-3
+
+<Step 160: Wait 3 minutes 20 seconds>
+Start Time:	10/30/2016 10:53:59 PM
+Time Completed:	10/30/2016 10:57:19 PM
+Elapsed Time:	0:3:20
+
+<Step 161: Resistance vs. Temperature>
+Start Time:	10/30/2016 10:57:19 PM
+Time Completed:	10/30/2016 10:58:24 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.188787E+1		372.995	5.25959E-3
+
+<Step 162: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 10:58:24 PM
+Time Completed:	10/30/2016 11:03:24 PM
+Elapsed Time:	0:5:0
+
+<Step 163: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:03:24 PM
+Time Completed:	10/30/2016 11:04:30 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1845075E+1		373.0	5.25724E-3
+
+<Step 164: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:04:30 PM
+Time Completed:	10/30/2016 11:09:30 PM
+Elapsed Time:	0:5:0
+
+<Step 165: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:09:30 PM
+Time Completed:	10/30/2016 11:10:36 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.179763E+1		373.0	5.26742E-3
+
+<Step 166: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:10:36 PM
+Time Completed:	10/30/2016 11:15:36 PM
+Elapsed Time:	0:5:0
+
+<Step 167: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:15:36 PM
+Time Completed:	10/30/2016 11:16:42 PM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.175221E+1		373.003	5.23924E-3
+
+<Step 168: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:16:42 PM
+Time Completed:	10/30/2016 11:21:42 PM
+Elapsed Time:	0:5:0
+
+<Step 169: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:21:42 PM
+Time Completed:	10/30/2016 11:22:48 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1716805E+1		372.999	5.25907E-3
+
+<Step 170: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:22:48 PM
+Time Completed:	10/30/2016 11:27:48 PM
+Elapsed Time:	0:5:0
+
+<Step 171: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:27:48 PM
+Time Completed:	10/30/2016 11:28:53 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1677585E+1		373.001	5.25255E-3
+
+<Step 172: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:28:54 PM
+Time Completed:	10/30/2016 11:33:54 PM
+Elapsed Time:	0:5:0
+
+<Step 173: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:33:54 PM
+Time Completed:	10/30/2016 11:34:59 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.163717E+1		373.0	5.23767E-3
+
+<Step 174: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:34:59 PM
+Time Completed:	10/30/2016 11:39:59 PM
+Elapsed Time:	0:5:0
+
+<Step 175: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:39:59 PM
+Time Completed:	10/30/2016 11:41:05 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.160284E+1		372.998	5.26716E-3
+
+<Step 176: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:41:05 PM
+Time Completed:	10/30/2016 11:46:05 PM
+Elapsed Time:	0:5:0
+
+<Step 177: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:46:05 PM
+Time Completed:	10/30/2016 11:47:10 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1552775E+1		372.997	5.23298E-3
+
+<Step 178: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:47:10 PM
+Time Completed:	10/30/2016 11:52:10 PM
+Elapsed Time:	0:5:0
+
+<Step 179: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:52:10 PM
+Time Completed:	10/30/2016 11:53:15 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1525355E+1		373.003	5.25907E-3
+
+<Step 180: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:53:16 PM
+Time Completed:	10/30/2016 11:58:16 PM
+Elapsed Time:	0:5:0
+
+<Step 181: Resistance vs. Temperature>
+Start Time:	10/30/2016 11:58:16 PM
+Time Completed:	10/30/2016 11:59:21 PM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1481125E+1		372.999	5.26611E-3
+
+<Step 182: Wait 5 minutes 0 seconds>
+Start Time:	10/30/2016 11:59:21 PM
+Time Completed:	10/31/2016 12:04:21 AM
+Elapsed Time:	0:5:0
+
+<Step 183: Resistance vs. Temperature>
+Start Time:	10/31/2016 12:04:22 AM
+Time Completed:	10/31/2016 12:05:27 AM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1469445E+1		372.994	5.21654E-3
+
+<Step 184: Wait 5 minutes 0 seconds>
+Start Time:	10/31/2016 12:05:28 AM
+Time Completed:	10/31/2016 12:10:28 AM
+Elapsed Time:	0:5:0
+
+<Step 185: Resistance vs. Temperature>
+Start Time:	10/31/2016 12:10:28 AM
+Time Completed:	10/31/2016 12:11:33 AM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.144227E+1		372.996	5.26638E-3
+
+<Step 186: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 12:11:34 AM
+Time Completed:	10/31/2016 1:11:34 AM
+Elapsed Time:	1:0:0
+
+<Step 187: Resistance vs. Temperature>
+Start Time:	10/31/2016 1:11:34 AM
+Time Completed:	10/31/2016 1:12:39 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.1156285E+1		373.001	5.22515E-3
+
+<Step 188: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 1:12:39 AM
+Time Completed:	10/31/2016 2:12:39 AM
+Elapsed Time:	1:0:0
+
+<Step 189: Resistance vs. Temperature>
+Start Time:	10/31/2016 2:12:39 AM
+Time Completed:	10/31/2016 2:13:45 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.0933245E+1		372.998	5.21419E-3
+
+<Step 190: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 2:13:45 AM
+Time Completed:	10/31/2016 3:13:45 AM
+Elapsed Time:	1:0:0
+
+<Step 191: Resistance vs. Temperature>
+Start Time:	10/31/2016 3:13:45 AM
+Time Completed:	10/31/2016 3:14:50 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.089176E+1		372.998	5.23350E-3
+
+<Step 192: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 3:14:50 AM
+Time Completed:	10/31/2016 4:14:50 AM
+Elapsed Time:	1:0:0
+
+<Step 193: Resistance vs. Temperature>
+Start Time:	10/31/2016 4:14:50 AM
+Time Completed:	10/31/2016 4:15:56 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.099559E+1		373.0	5.25959E-3
+
+<Step 194: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 4:15:56 AM
+Time Completed:	10/31/2016 5:15:56 AM
+Elapsed Time:	1:0:0
+
+<Step 195: Resistance vs. Temperature>
+Start Time:	10/31/2016 5:15:56 AM
+Time Completed:	10/31/2016 5:17:01 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	5.0941465E+1		372.999	5.25698E-3
+
+<Step 196: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 5:17:02 AM
+Time Completed:	10/31/2016 6:17:02 AM
+Elapsed Time:	1:0:0
+
+<Step 197: Resistance vs. Temperature>
+Start Time:	10/31/2016 6:17:02 AM
+Time Completed:	10/31/2016 6:18:07 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	4.938078E+1		372.996	5.25516E-3
+
+<Step 198: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 6:18:07 AM
+Time Completed:	10/31/2016 7:18:07 AM
+Elapsed Time:	1:0:0
+
+<Step 199: Resistance vs. Temperature>
+Start Time:	10/31/2016 7:18:07 AM
+Time Completed:	10/31/2016 7:19:13 AM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	4.9182655E+1		372.998	5.24837E-3
+
+<Step 200: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 7:19:13 AM
+Time Completed:	10/31/2016 8:19:13 AM
+Elapsed Time:	1:0:0
+
+<Step 201: Resistance vs. Temperature>
+Start Time:	10/31/2016 8:19:13 AM
+Time Completed:	10/31/2016 8:20:19 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	4.934704E+1		372.998	5.22332E-3
+
+<Step 202: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 8:20:19 AM
+Time Completed:	10/31/2016 9:20:19 AM
+Elapsed Time:	1:0:0
+
+<Step 203: Resistance vs. Temperature>
+Start Time:	10/31/2016 9:20:19 AM
+Time Completed:	10/31/2016 9:21:25 AM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	4.951334E+1		373.002	5.25124E-3
+
+<Step 204: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 9:21:25 AM
+Time Completed:	10/31/2016 10:21:25 AM
+Elapsed Time:	1:0:0
+
+<Step 205: Resistance vs. Temperature>
+Start Time:	10/31/2016 10:21:25 AM
+Time Completed:	10/31/2016 10:22:31 AM
+Elapsed Time:	0:1:6
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	4.9460055E+1		373.0	5.24446E-3
+
+<Step 206: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 10:22:31 AM
+Skipped at:	10/31/2016 11:20:57 AM
+Elapsed Time:	0:58:26
+
+<Step 207: Resistance vs. Temperature>
+Start Time:	10/31/2016 11:20:57 AM
+Time Completed:	10/31/2016 11:22:02 AM
+Elapsed Time:	0:1:5
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+1	4.9418215E+1		372.999	5.26794E-3
+
+<Step 208: Wait 1 hours 0 minutes 0 seconds>
+Start Time:	10/31/2016 11:22:03 AM
+Skipped at:	10/31/2016 11:22:22 AM
+Elapsed Time:	0:0:19
+
+<Step 209: Resistance vs. Temperature>
+Start Time:	
+Time Completed:	
+Elapsed Time:	0:0:0
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+
+<Step 210: Wait 5 hours 0 minutes 0 seconds>
+Start Time:	
+Time Completed:	
+Elapsed Time:	0:0:0
+
+<Step 211: Resistance vs. Temperature>
+Start Time:	
+Time Completed:	
+Elapsed Time:	0:0:0
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+
+<Step 212: Wait 5 hours 0 minutes 0 seconds>
+Start Time:	
+Time Completed:	
+Elapsed Time:	0:0:0
+
+<Step 213: Resistance vs. Temperature>
+Start Time:	
+Time Completed:	
+Elapsed Time:	0:0:0
+
+Starting Temperature:	3.73E+2	[K]
+Ending Temperature:	3.73E+2	[K]
+Spacing:	Linear Spacing
+Temperature Step:	1.0 [K]
+Excitation Current:	1.0E-3	[A]
+Dwell Time:	2.0E+0	[Sec]
+Filter Time:	0.1	[Sec]
+
+Point	Resistance[ohm]	Temperature [K]	Field [T]
+
+<Step 214: Shut down heater>
+Start Time:	
+Time Completed:	
+Elapsed Time:	0:0:0

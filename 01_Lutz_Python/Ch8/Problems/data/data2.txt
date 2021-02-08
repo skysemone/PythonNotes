@@ -1,0 +1,9 @@
+1,101
+2,2001
+3, 301
+4,	401
+5,	
+6,
+7,	701
+
+The data above is comma separated but has a few issues that require close attention.  Lines are different length, Line 3 has a space after the separating comma, line 4 has a tab after the comma, lines 5 and 6 have no data after the comma.  Further, this text follows the data, and we don't want to include it
