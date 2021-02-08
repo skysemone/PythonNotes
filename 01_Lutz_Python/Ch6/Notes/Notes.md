@@ -26,15 +26,29 @@ x = 5.5
 ## Garbage Collection and Objects
 Garbage collection is the process of freeing up memory for objects that are no longer used.  In the last example program, once x is redefined to the 'test' string, the object representing the integer 5 is no longer needed.  With this example, there really is no need to clean up the few bytes used to allocate a single integer, but with giant lists and dictionaries, this becomes very useful.
 
-Python's memory reclaimation works primarily through reference counters.  Every object keeps track of the number of things that are referencing it; when this number reaches zero, the object is no longer used and can be thrown out.  Python also reclaims cyclic references by default, which are used when an object points to itself.  Non-defualt python implimentations can handle garbage collection differently
+Python's memory reclaimation works primarily through reference counters.  Every object keeps track of the number of things that are referencing it; when this number reaches zero, the object is no longer used and can be thrown out.  Python also reclaims cyclic references by default, which are used when an object points to itself.  Some objects will be cached too depending how Python  (more on this later).  Non-defualt python implimentations can handle garbage collection differently.
 
 ## Shared References
- 
+If we set `a=3` and `b=3`, both variables will point to the same object in memory.  If b is then set to `b=a+10` then b now points at a new object 13, since integers are immutable.
  ### In-Place Changes
- 
- 
+ This applies for mutable objects!  Its easy to see this in action with an example list
+ ```python
+ a = [1,2,3,4,5]
+ b = a      #a and b are now pointing at the same thing!
+ b[0]=10    #change in b will show up in a
+ print(a,b)
+```
+If variable a and b are pointing to the same mutable object, then any change in one will be seen in the other.  A copy of an object must be made to make changes like this.
+ ```python
+ a = [1,2,3,4,5]
+ b = a[:]   #alternatively list(a), copy.copy(a)
+ b[0]=10    #change in b will show up in a
+ print(a,b)
+```
  ### Equality
-
-## Dynamic Typing
-
-
+ Back in chapter 4, I gave some examples of when `is` will give a different result than `==`.  'is' refers to if the variables are pointing at the same object, while '==' will evaluate if the objects are equalivent.  If we want to see more information about which variables point at an object, we can use the sys module.
+  ```python
+  import sys
+  print(sys.getrefcount(1))
+ ```
+ This will print out the number of references that currently point to the object '1'.  Try this for a few different values and see what happens. 
