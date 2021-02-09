@@ -234,7 +234,66 @@ Methods are made up of *call* and *fetch* functions.  Attribute fetches look lik
 |upper()  |  Converts a string into upper case|
 |zfill()   | Fills the string with a specified number of 0 values at the beginning|
 
+### Examples using methods
+
+We can split strings on the occurance of a character.  In the example below, the string will be split manually, and then using the more appropriate method.
+```python
+#   splitting a string manually
+line = 'this is a test line of text'
+s1 = line[0:4]
+s2 = line[5:7]
+print(s1,s2)
+
+```
+```python
+#   using .split()
+line = 'this is a test line of text'
+s = line.split()
+print(s[0],s[1])
+```
+By default, `split()` is separating by spaces, but it can separate any string argument.  In the next example, `striip()` is used to remove all of the spaces from the string.  Try removing this to see the difference it makes.
+```python
+#   using .split()
+line = ' this    ,is  ,   1,  2   ,3, 4,   5 , csv'
+s = line.split(',')
+for i in s:
+    print(i.strip())
+```
+
+
+```python
+
+
+```
+```python
+
+
+```
+```python
+
+
+```
+
+
+
 ## Formatting
+The basics of formatting were already covered in this chapter, but a complete list of codes are given here.  These should be familiar to C programmers.  The general form of the targets in a format string is...
+`%[(keyname)][flags][width][.precision]typecode`
 
-
-## General Type Categories
+|Code| |
+|-|-|
+| s | string or str(x) |
+| r | repr or repr(x) |
+| c |character  |
+| d | decimal |
+| i | integer |
+| o | octal |
+| x | hexidecimal |
+| X | uppercase hex |
+| e | float with exponent |
+| E | uppercase float with exponent |
+| f | float |
+| F | uppercase float |
+| g | e or f |
+| G | E or F |
+| % | literal % |
