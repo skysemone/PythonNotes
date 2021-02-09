@@ -11,7 +11,7 @@ Strings in Python are immutable sequences, meaning that they have an ordered pos
 Along with sequential operations, strings have the following availble operations and 43 methods:
 
 | Operation | Interpretation |
-----------
+|------|----|
 | '' | empty string |
 | "test" | same as 'test' |
 | 's\np\ta\x00m' | backslashes are escape sequences |
@@ -42,7 +42,7 @@ s = '"That\'s a quote"'         # \ escape is needed since there are both " and 
 The backslash \ is used to denote special characters in strings.  In the last example, we had to use one to tell Python that we wished to use **'** as a character and not as the 'begin-end string' command.  
 
 | Escape |  |
-----------
+|-----|-----|
 | \newline | just continutes a line |
 | \\ | stores a single \ character |
 | \' | stores a single ' character |
@@ -169,12 +169,13 @@ print(i)
 ```
 
 
-
-
-
-
-
 ### Changing strings
+
+To change a string, we have to construct a new string with our changes in place.  All of the previously mentioned string operations can be used to do this!  Many other ways are presented here.
+
+```python
+
+```
 
 ## Strings Methods
 
