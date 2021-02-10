@@ -24,6 +24,9 @@ Lists have the following properties:
 |reverse()  |  Reverses the order of the list|
 |sort()   | Sorts the list|
 
+
+
+
 ## Intro to Lists
 ### Basic operations
 Here are some basic examples of using lists
