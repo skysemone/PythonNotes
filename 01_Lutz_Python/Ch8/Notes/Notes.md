@@ -125,7 +125,115 @@ print(a)                        #['b', 'a', 3]
 
 
 
-
-
-
 ## Dictionaries
+Dictionaries have the following properties:
++ **Accessed by key, not offset position (index):**  to retrieve an object from a dictionary, a key must be used.  Objects are entered into the dictionary with this key.
++ **Unordered collections of arbitrary objects:**  There is to index value for the object
++ **Variable-length, heterogeneous, and arbitrarily nestable:**  Dictionaries can grow in place unlike immutable objects.  Objects can be added, removed, and nested.
++ **Mutable mapping:**  dictionaries can be changed in place
++ **Table of reference objects:**  it is a hash table, therefore implemented to be fast.
+
+### Basic operations and methods for dictionaries
+| Operation |  |
+|-|-|
+| keys() | returns all keys in form dict_keys(['a', 'b', 'c']) |
+| values() | returns all values in form dict_values([1, 2, 3]) |
+| items() | returns al objects similarly |
+| copy() | top-level copy |
+| clear() | removes all objects  |
+| update(d2) | merges dictionaries |
+| get(key) | returns object by key |
+| pop(key) | returns object and removed from dictionary | 
+| len(d) | number of stored entry |
+
+### Using dictionaries
+
+To make a dictionary, code something like this.  I will use this dictionary in most of the examples
+```python
+d = {'a':1,'b':2,'c':3,'d':4}
+
+```
+Now we can change and add things to the dictionary:
+```python
+d = {'a':1,'b':2,'c':3,'d':4}
+#   change an object
+d['a'] = 10
+print(d)
+
+#   delete an object
+del d['a']
+print(d)
+
+```
+
+These methods allow us to view objects in the dictionary:
+
+```python
+d = {'a':1,'b':2,'c':3,'d':4}
+#   show values/keys in a list
+print(list(d.values()))
+print(list(d.keys()))
+
+#   retrieve a value
+item = d.get('b')
+print(item)
+
+#   notice that the get method will return None if object not present
+item = d.get('nope')
+print(item)
+
+```
+`update()` and `pop()` work just like they do for lists.
+
+### An example database using dictionaries
+```python
+table = {'1975': 'Holy Grail',
+         '1979': 'Life of Brian',
+         '1983': 'The Meaning of Life'
+}
+year  = '1983'
+movie = table[year]
+
+#print the title of the movie for this year
+print(movie)
+
+#print out all of the data we have
+for year in table:
+    print(year + '\t' + table[year])
+```
+
+### Notes on how to use a dictionary
+
+The book mentions the next three points when working with dictionaries
+1. You can't do sequential operations since there are no indicies
+2. Assigning to new indicies adds entries
+3. Keys can be any immutable object
+
+
+Missing key errors occur when we try to look up something that is not contained in our dictionary.  These will look something like this:
+
+```python
+Traceback (most recent call last):
+  File "/Users/skysemone/Documents/python review/test project/q6.py", line 22, in <module>
+    a['test']    
+KeyError: 'test'
+```
+where 'test' is the name of the string I tried to look up.  The book giving the following ways to avoid this error and just return nothing without crashing the program. I will use the 'table' dictionary in the previous example
+```python
+a = '1990'
+
+#   option 1:  if it exists then do something
+if a in table:
+    print(table[a])
+else:
+    print(0)
+
+#   option 2:  catch the error
+try:
+    print(table[a])
+except KeyError:
+    print(0)
+    
+#   option 3:  the default value is 0, if the object isnt found 0 will be printed
+table.get(a,0)
+```

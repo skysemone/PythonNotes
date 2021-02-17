@@ -297,3 +297,64 @@ The basics of formatting were already covered in this chapter, but a complete li
 | g | e or f |
 | G | E or F |
 | % | literal % |
+
+
+## Using Regular Expressions for Strings
+This section will use resources outside of the Lutz text.
+#### What are regular expressions
+#### Special characters
+These characters will match:
++ **.**   any given character except the newline (DOTALL flag overrides this exception.
++  **^**  the start of a string (and after newlines if in MULTILINE mode)
++  **$**  the end of a string (and before a newline in MULTILINE mode)
++ **\*** 0 or more repetitions of the proceeding RE
++  **+**  1 or more repetitions of the proceeding RE+
++ **?**  0 or 1 repetitions of the proceeding RE
++ **_?** adding '?' after the qualifier match as few character as possible
++ **{m}** m copies of previous RE
++ **{m,n}** m to n copies of previous RE
++ **[]** a set of characters
++ **a|b** set a or set b
++ **\w** words i.e '[a-zA-Z0-9_]'
+
+#### Match
+```python
+import re
+#   match a date string
+regex = r'([a-zA-Z]+) (\d+)'
+if re.search(regex, "June 24"):
+    match = re.search(regex, "June 20")
+    print('Match at index %s, %s' % (match.start(), match.end()))
+```
+#### Findall
+```python
+import re
+txt = 'This is a nice example, isn't it?'
+x = re.findall('is', txt)
+print(x))
+```
+```python
+import re
+regex = r'[a-zA-Z]+ \d+'
+matches = re.findall(regex, 'December 21, August 10, January 2')
+for match in matches:
+    print('Full match: %s' % (match))
+
+```
+
+#### Search
+
+```python 
+import re
+regex = re.compile(r'(\w+) World')
+result = regex.search('Hello World this is a test')
+if result:
+
+    print(result.start(), result.end())
+
+for result in regex.findall('1 World, 2 World, red World, blue World'):
+    print(result)
+
+print(regex.sub(r"\1 friends", "Hello World"))
+```
+
